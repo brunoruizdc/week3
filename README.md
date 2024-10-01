@@ -1,4 +1,4 @@
- # 🧮 Tarea 3
+# 🧮 Tarea 3
 
 *Integrantes:*
 - Bruno Ruiz (20212386)
@@ -25,3 +25,7 @@ RED DE LAS EXPORTACIONES DE MERCANCÍAS DE TODOS LOS PAÍSES:
 
 IMPORTANCIA DE CADA PAÍS SEGUN INDICADORES DEGREE Y CLOSENESS:
 ![WhatsApp Image 2024-10-01 at 1 02 51 AM](https://github.com/user-attachments/assets/322cffe5-aee3-467f-a857-f72c2174ee31)
+
+RED FILTRADA POR COMUNIDADES:
+![Captura de pantalla 2024-10-01 100645](https://github.com/user-attachments/assets/83852698-d405-4854-8dfe-e241fc2afc4a)
+
