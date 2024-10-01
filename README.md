@@ -16,6 +16,8 @@ Se puede apreciar que los casos con mayor influencia dentro de la red son: La un
 
 Además, cabe recalcar que la Unión Europea, Estados Unidos, China y la India funcionan como aliados clave para la conexión de países que pertenen a sub áreas distintas, tales como el caso de Iraq y Singapur mediante la Unión Europea.
 
+#LINK: https://brunoruizdc.github.io/week3/
+
 # Exposición de la red encontrada:
 
 RED DE LAS EXPORTACIONES DE MERCANCÍAS DE TODOS LOS PAÍSES:
