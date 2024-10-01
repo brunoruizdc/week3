@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d14d9b1-b270-4402-804f-5822f1792c45) # 🧮 Tarea 3
+# 🧮 Tarea 3
 
 *Integrantes:*
 - Bruno Ruiz (20212386)
